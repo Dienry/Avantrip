@@ -1,0 +1,3 @@
+app:
+    minScoringFraudulento: 60
+    montoMaximoSinRiesgo: 50000

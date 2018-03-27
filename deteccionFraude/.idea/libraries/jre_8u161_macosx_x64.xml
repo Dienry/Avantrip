@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jre-8u161-macosx-x64">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jre-8u161-macosx-x64.dmg" recursive="false" type="SOURCES" />
+  </library>
+</component>
